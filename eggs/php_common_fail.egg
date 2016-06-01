@@ -1,4 +1,4 @@
-::::::::::::::::::::::::::::::::::::::::::::::::::::EGG:COMMON:PHP:FAILURES
+	::::::::::::::::::::::::::::::::::::::::::::::::::::EGG:COMMON:PHP:FAILURES
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
  ::Title::( File Manipulation ):: 	
@@ -60,4 +60,9 @@
  ::Relevance::( Low ):: 
  ::Reference::( https://developer.wordpress.org/reference/)::
  ::Match::# the_title|get_the_title|the_content|wp_titlewp_list_comments|comments_template|previous_post_link|get_the_title|the_title|comment_text|get_the_excerpt|next_post_link #::
- 
+
+ ::Title::( drupal functions)::
+ ::Description::( drupal dangerous methods)::
+ ::Relevance::(Low)::
+ ::Reference::()::
+ ::Match::#drupal_attributes|drupal_eval|check_plain|check_url|form_state|preg_replace#::
